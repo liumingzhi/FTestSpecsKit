@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'FTestSpecsKit_Example' do
+  pod 'FTestSpecsKit', :path => '../'
+
+  target 'FTestSpecsKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
