@@ -1,0 +1,6 @@
+framework module FTestSpecsKit {
+  umbrella header "FTestSpecsKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

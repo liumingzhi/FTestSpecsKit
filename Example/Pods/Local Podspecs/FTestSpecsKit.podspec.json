@@ -1,0 +1,22 @@
+{
+  "name": "FTestSpecsKit",
+  "version": "0.1.0",
+  "summary": "A short description of FTestSpecsKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/liumingzhi912@163.com/FTestSpecsKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liumingzhi912@163.com": "liumingzhi.lmz@alibaba-inc.com"
+  },
+  "source": {
+    "git": "https://github.com/liumingzhi912@163.com/FTestSpecsKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "FTestSpecsKit/Classes/**/*"
+}

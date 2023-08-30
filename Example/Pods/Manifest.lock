@@ -1,0 +1,16 @@
+PODS:
+  - FTestSpecsKit (0.1.0)
+
+DEPENDENCIES:
+  - FTestSpecsKit (from `../`)
+
+EXTERNAL SOURCES:
+  FTestSpecsKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FTestSpecsKit: 50578d6d8fd935ce7019e91a430eb1880d67112a
+
+PODFILE CHECKSUM: 1349930903fa0e80d08cad1cddf6c6c1d798b241
+
+COCOAPODS: 1.11.3
